@@ -1,13 +1,13 @@
-Virtual Gallery is a VR game meticulously crafted for educational purposes, ensuring that the heroes of Indonesia are remembered by future generations. This game is designed to provide users with an enjoyable and engaging experience while learning about history. It is developed using the C# programming language.
+"Virtual Gallery is an innovative virtual reality (VR) game specifically designed to enhance educational experiences by preserving and celebrating the legacy of Indonesia's national heroes. The game aims to ensure that the significant contributions and stories of these heroes are not forgotten in the future. Through immersive VR technology, Virtual Gallery offers users an enjoyable and captivating way to engage with historical content. Users will experience the thrill of exploring interactive environments where they can learn about pivotal events and figures in Indonesian history. Developed using the robust C# programming language, this game combines advanced technical design with educational narratives to create a uniquely enriching experience. Virtual Gallery is not just a game, but a journey through the annals of history, designed to inspire and educate users about Indonesia's rich heritage.
 ##  **Tech Stack**
 <table>
   <tr>
     <!-- Kolom untuk gambar dan teks Java -->
     <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/3ab87199-09d9-4c91-abed-f122c3c1a9aa" alt="Java" style="width: 70px; vertical-align: middle;">
+      <img src="https://github.com/Damaramon/Project_Virtual_Gallery/assets/128273587/f3e45813-a0ca-4bdb-8b3d-83f9f7593d57" alt="C#" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      Java (Android Studio)
+      C#
     </td>
   </tr>
 
